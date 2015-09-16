@@ -27,6 +27,7 @@ Presença na aula de Git do PET ++
 }
 
 07 = {
+	Ana Paula Lima
 }
 
 08 = {
