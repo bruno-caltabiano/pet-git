@@ -21,6 +21,7 @@ Presença na aula de Git do PET ++
 }
 
 05 = {
+	Bruno Caltabiano
 }
 
 06 = {
