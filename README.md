@@ -2,13 +2,10 @@ Presença na aula de Git do PET ++
 =================================
 
 **16 de Setembro de 2015**
-
+```
 00 = {
-
-Carlos Alberto Schneider Junior
-
-Aqui tinha uma mensagem muito legal, mas o Dropbox não salvou. Por isso eu prefiro o Git :smile:
-
+      Carlos Alberto Schneider Junior
+      Aqui tinha uma mensagem muito legal, mas o Dropbox não salvou. Por isso eu prefiro o Git :smile:
 }
 
 01 = {
@@ -136,3 +133,4 @@ Aqui tinha uma mensagem muito legal, mas o Dropbox não salvou. Por isso eu pref
 
 42 = {
 }
+```
